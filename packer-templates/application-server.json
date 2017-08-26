@@ -33,7 +33,7 @@
           " -- <wait>",
           "<enter><wait>"
         ],
-        "boot_wait": "10s",
+        "boot_wait": "11s",
         "headless": false,
         "disk_size": 10140,
         "guest_additions_path": "VBoxGuestAdditions_{{.Version}}.iso",
